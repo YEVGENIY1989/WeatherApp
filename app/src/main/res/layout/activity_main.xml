@@ -52,6 +52,15 @@
         android:gravity="center"/>
 
     <TextView
+        android:id="@+id/txtTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:gravity="center"/>
+
+    <TextView
         android:id="@+id/txtCelsius"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
